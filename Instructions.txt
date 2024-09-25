@@ -1,5 +1,15 @@
 About: Uses a video argument to test the Balltracker.py script with a sample video.
 
+Make sure the following Python libraries are installed:
+sudo apt-get install python3-tk
+python -m pip install --upgrade pip
+pip install numpy
+pip install scikit-learn
+pip install argparse
+pip install imutils
+pip install opencv-python
+pip install matplotlib
+pip install tk
 
 Instructions 1: For Testing (or grading) purposes:
 	Step 1: open the Balltracker.py in IDLE
