@@ -10,7 +10,7 @@ Instructions 1: For Testing (or grading) purposes:
 	Step 5: watch the video and the predicted speeds!
 
 
-2.For Realtime use Whit Davis or Big Dog:
+2.For Realtime use: (for Whit Davis or Big Dog):
 	1. Double click on the balltracker.py on the desktop.
 	2. Set the surface pro on the side of the net. *Make sure its set up as tall as the net!*
 	3. Go play and see whos number is a higher number!
