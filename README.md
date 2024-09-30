@@ -1,5 +1,5 @@
 # Tennis-Ball-Speed-AI Model-
- Using a device with a camera, place it facing perendicular to the net and run the script to  capture the speed of a tennis ball! 
+ Using a device with a camera, place it facing perendicular to the net and run the script to  capture the speed of a tennis ball in Mph! 
 
  I wrote this program for my class AI project in college at The University of North Alabama. 
  
